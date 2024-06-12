@@ -1,8 +1,8 @@
-Personalised Vacation Planner: Data-Driven Travel Recommendations
-Overview
+# Personalised Vacation Planner: Data-Driven Travel Recommendations
+## Overview
 This project is a data-driven vacation planner aimed at providing personalized travel recommendations to users based on their preferences and encouraging environmentally responsible and sustainable travel choices. Leveraging open data sources from various tourism boards, weather services, accommodation databases, and event calendars, the system offers insights into travel destinations, accommodations, activities, and real-time weather updates. The primary objective is to enhance the vacation planning experience while prioritizing environmental impact reduction.
 
-Features
+## Features
 Personalised Vacation Planning: Users receive tailored vacation recommendations based on their preferences, including travel activities, budget range, and climate preferences.
 Optimised Budgeting: Budget-conscious travelers can plan their vacations within their financial constraints.
 Real-time Updates: Users stay informed with real-time weather updates and event information for their selected destinations.
@@ -10,7 +10,7 @@ Environmental Impact Awareness: Users can make informed decisions regarding thei
 Interactive Travel Itinerary: An interactive user interface displays recommended travel itineraries, allowing users to customize and modify based on their preferences.
 Recommendations and Suggestions: Data-driven algorithms recommend travel destinations, accommodations, and activities based on user preferences, travel trends, and current events.
 Carbon Footprint Calculation: Integration of carbon footprint data enables users to understand the environmental impact associated with their travel choices.
-Getting Started
+## Getting Started
 To get started with the Personalised Vacation Planner, follow these steps:
 
 Data Collection and Storage: Ingest open data from various sources, including tourism boards, weather services, accommodation databases, and event calendars. Store the data in a database of your choice.
@@ -31,5 +31,5 @@ Submit a pull request detailing the changes you've made.
 License
 This project is licensed under the MIT License.
 
-Acknowledgements
+## Acknowledgements
 We would like to acknowledge the support of IBM for their dedication to creating innovations that matter for the world. This project was developed as part of Skills City, with contributions from [list your team members here].
