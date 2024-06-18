@@ -27,13 +27,14 @@ Carbon Footprint Calculation: Source carbon footprint data to enable users to un
 For any question or inquiries,  please contact Japhetwolde@gmail.com
 
 ## Acknowledgements
-I would like to acknowledge the support of IBM for their dedication to creating innovations that matter for the world. This project was developed as part of Skills City, with contributions from 
-Roberta Johnson,
+I would like to acknowledge the support of IBM for their dedication to creating innovations that matter for the world. This project was developed as part of Skills City, with contributions from
 
-David Shefilled,
+Roberta Johnson
 
-Swati Patil,
+David Shefilled
 
-Evante,
+Swati Patil
+
+Evante
 
 Muhammed Hamza Ali
