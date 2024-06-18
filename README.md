@@ -28,8 +28,12 @@ For any question or inquiries,  please contact Japhetwolde@gmail.com
 
 ## Acknowledgements
 I would like to acknowledge the support of IBM for their dedication to creating innovations that matter for the world. This project was developed as part of Skills City, with contributions from 
-Roberta Johnson
-David Shefilled
-Swati Patil
-Evante
+Roberta Johnson,
+
+David Shefilled,
+
+Swati Patil,
+
+Evante,
+
 Muhammed Hamza Ali
