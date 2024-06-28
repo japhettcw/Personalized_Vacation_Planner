@@ -23,6 +23,9 @@ Recommendations and Suggestions: Utilized data-driven algorithms to recommend tr
 Real-time Weather Updates: Integrate a weather API to provide users with real-time weather updates for their selected travel dates and destinations.
 Carbon Footprint Calculation: Source carbon footprint data to enable users to understand the environmental impact associated with their travel choices.
 
+## Report
+https://1drv.ms/w/c/6baa9301134f8010/EVA4z0GkAvNPpUU3B4xXXfYBWKs2yXi6nBPolGqaUURKLQ?e=RKcxJb
+
 ## Contact Information
 For any question or inquiries,  please contact Japhetwolde@gmail.com
 
