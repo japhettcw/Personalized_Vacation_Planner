@@ -5,9 +5,20 @@ This project is an assignment given by our client, IBM, with the objective of de
 ## Presentation
 https://1drv.ms/p/s!AmD3W8lLA82JeXRzKM--BJ_jZ9Y?e=xHHc1T
 
+## Introduction Dashboard
+![](introductionboard.gif)
+
 ## Cost DashBoard
 ![](CostDataBoard.gif)
 
+## Hotels and Restaurant
+![](hotelsandrestaurantsboard.gif)
+
+## Weather DashBoard
+![](weatherdataboard.gif)
+
+## Whole DashBoard
+![](wholedashboard.gif)
 ## Features
 Personalised Vacation Planning: Users receive tailored vacation recommendations based on their preferences, including travel activities, budget range, and climate preferences.
 Optimised Budgeting: Budget-conscious travelers can plan their vacations within their financial constraints.
