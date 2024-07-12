@@ -6,7 +6,7 @@ This project is an assignment given by our client, IBM, with the objective of de
 https://1drv.ms/p/s!AmD3W8lLA82JeXRzKM--BJ_jZ9Y?e=xHHc1T
 
 ## Introduction Dashboard
-![](introductionboard.gif)
+![DashBoard](introductionboard.gif)
 
 ## Cost DashBoard
 ![](CostDataBoard.gif)
