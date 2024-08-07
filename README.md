@@ -2,9 +2,6 @@
 ## Overview
 This project is an assignment given by our client, IBM, with the objective of developing a personalised vacation planner that provides data-driven travel recommendations. The goal is to offer users insights into travel destinations, accommodations, activities, and real-time weather updates while prioritizing environmentally responsible and sustainable travel choices.
 
-## Presentation
-https://1drv.ms/p/s!AmD3W8lLA82JeXRzKM--BJ_jZ9Y?e=xHHc1T
-
 ## Introduction Dashboard
 ![](DashBoard/introductionboard.gif)
 
